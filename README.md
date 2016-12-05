@@ -23,5 +23,5 @@ Ive added the app called QOK [Qt on Kobo - how original!! ] to the awesome menu.
 Ive also added UsbNet to the menu, although I use wifi at home.
 
 Screenshot:
-![Kobo display](https://community-openhab-org.s3-eu-central-1.amazonaws.com/optimized/2X/d/d32ec6225f1572edbc16fc61433128adaa20e965_1_666x500.JPG)
+![Kobo display](screen.JPG)
 
